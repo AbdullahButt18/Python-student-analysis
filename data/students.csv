@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Age,CGPA,City
+101,Ali Khan,CS,20,3.75,Lahore
+102,Ahmed Raza,IT,21,3.45,Gujranwala
+103,Hassan Ali,SE,19,3.90,Lahore
+104,Usman Tariq,CS,22,3.20,Islamabad
+105,Bilal Ahmed,IT,20,3.65,Gujrat
+106,Owais Shah,SE,21,3.10,Sialkot
+107,Hamza Malik,CS,23,3.85,Lahore
+108,Saad Ahmed,IT,19,3.40,Gujranwala
+109,Zain Ali,SE,20,3.70,Gujrat
+110,Abdullah Khan,CS,21,3.55,Lahore
+111,Danish Iqbal,IT,22,3.25,Islamabad
+112,Huzaifa Ahmed,SE,20,3.80,Sialkot
+113,Arham Raza,CS,19,3.95,Gujrat
+114,Shahzaib Ali,IT,23,3.15,Lahore
+115,Farhan Khan,SE,21,3.60,Gujranwala
+116,Usama Tariq,CS,20,3.30,Sialkot
+117,Sameer Ahmed,IT,22,3.75,Gujrat
+118,Rehan Malik,SE,19,,Lahore
+119,Abbas Shah,CS,21,3.50,Islamabad
+120,Salman Raza,IT,20,3.85,Gujranwala
